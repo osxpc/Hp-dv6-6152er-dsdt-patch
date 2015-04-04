@@ -1,0 +1,12 @@
+[misc] -->status patches	NullPatch.txt
+[misc] battery_HP-DV7-6xxx	Patches/battery_HP-DV7-6xxx.txt
+[misc] Brightness	Patches/Brightness.txt
+[misc] HD30000	Patches/HD30000.txt
+[misc] Intel_6_Series_Fixes	Patches/Intel_6_Series_Fixes.txt
+[misc] Intel_Sandy_MEI	Patches/Intel_Sandy_MEI.txt
+[misc] LPC_Sandy_Bridge	Patches/LPC_Sandy_Bridge.txt
+[misc] MCHC_device	Patches/MCHC_device.txt
+[misc] NEC_D72020x_USB3_@_RP05	Patches/NEC_D72020x_USB3_@_RP05.txt
+[misc] NEC_D72020x_USB3_@_RP07	Patches/NEC_D72020x_USB3_@_RP07.txt
+[misc] SATA	Patches/SATA.txt
+[misc] SMBUS	Patches/SMBUS.txt
