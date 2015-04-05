@@ -1,7 +1,7 @@
 [misc] -->status patches	NullPatch.txt
 [misc] battery_HP-DV7-6xxx	Patches/battery_HP-DV7-6xxx.txt
 [misc] Brightness	Patches/Brightness.txt
-[misc] HD30000	Patches/HD30000.txt
+[misc] HD3000	Patches/HD3000.txt
 [misc] Intel_6_Series_Fixes	Patches/Intel_6_Series_Fixes.txt
 [misc] Intel_Sandy_MEI	Patches/Intel_Sandy_MEI.txt
 [misc] LPC_Sandy_Bridge	Patches/LPC_Sandy_Bridge.txt
