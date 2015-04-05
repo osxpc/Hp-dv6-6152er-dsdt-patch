@@ -23,7 +23,7 @@ After that you can use the repo just like a remote repo.
 
 
 I recommend you use RehabMan version of MaciASL: 
-https://github.com/RehabMan/OS-X-MaciASL-patchmatic
+https://bitbucket.org/RehabMan/os-x-maciasl-patchmatic/downloads
 
 
 To apply a patch to your DSDT with MaciASL:
