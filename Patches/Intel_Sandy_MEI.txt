@@ -1,11 +1,3 @@
-# Maintained by: PJALM (help@pjalm.info) for: http://pjalm.info/repos/graphics/
-# Maintained by: PJALM (help@pjalm.com) for: http://pjalm.com/repos/graphics/
-
-# These patches are the registered property of PJALM.COM and can not be
-# redistributed or modified without the written consent of PJALM.COM.
-# Links to these patches are allowed so long as the link details that
-# they come from PJALM.COM
-
 # Patch Name    : Intel Sandy MEI
 # Patch Version : 1.0
 
