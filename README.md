@@ -11,7 +11,7 @@ To add these patches to MaciASL as a repository:
 - select Sources
 - click the [+] button
 - give it a name (eg. "Laptop Patches")
-- type the following URL: http://raw.github.com/walkman8196/Hp-dv6-6152er-dsdt-Patch/master
+- type the following URL: http://raw.github.com/walkman8196/Hp-dv6-6152er-dsdt-patch/master
 
 If you don't have internet access and wish to use a repository locally:
 - download the .ZIP of the repository from github (Download ZIP button on right side)
