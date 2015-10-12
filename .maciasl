@@ -7,7 +7,7 @@
 [misc] Intel_Sandy_MEI	Patches/Intel_Sandy_MEI.txt
 [misc] LPC_Sandy_Bridge	Patches/LPC_Sandy_Bridge.txt
 [misc] MCHC_device	Patches/MCHC_device.txt
-[misc] NEC_D72020x_USB3_@_RP05	Patches/NEC_D72020x_USB3_@_RP05.txt
+[misc] NEC_D72020x_USB3_@_RP05	Patches/NEC_D72020x_USB3_@_RP05.rtf
 [misc] NEC_D72020x_USB3_@_RP07	Patches/NEC_D72020x_USB3_@_RP07.txt
 [misc] SATA	Patches/SATA.txt
 [misc] SMBUS	Patches/SMBUS.txt
