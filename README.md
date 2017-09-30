@@ -11,7 +11,7 @@ To add these patches to MaciASL as a repository:
 - select Sources
 - click the [+] button
 - give it a name (eg. "Laptop Patches")
-- type the following URL: http://raw.github.com/walkman8196/Hp-dv6-6152er-dsdt-patch/master
+- type the following URL: http://raw.github.com/osxpc/Hp-dv6-6152er-dsdt-patch/master
 
 If you don't have internet access and wish to use a repository locally:
 - download the .ZIP of the repository from github (Download ZIP button on right side)
@@ -43,6 +43,5 @@ To apply a patch to your DSDT with MaciASL:
 - when you're done applying patches, click Close
 
 To use your DSDT, you must save it to:
-|/Extra/dsdt.aml for Chameleon|
 |/EFI/CLOVER/ACPI/patched/dsdt.aml for Clover|
 format: ACPI Machine Language Binary
